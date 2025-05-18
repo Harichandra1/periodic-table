@@ -6,8 +6,8 @@ A beautifully rendered, interactive periodic table built with **React** and **Ta
 
 ## 🚀 Live Demo
 
-[![View Demo](  
-[*(replace with your deployed URL)*](https://eclectic-figolla-20de88.netlify.app)
+
+[*([View Demo)*](https://eclectic-figolla-20de88.netlify.app)
 
 ---
 
